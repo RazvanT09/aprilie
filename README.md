@@ -13,6 +13,14 @@
 - [Openweathermap](https://openweathermap.org/)
 - Project Language: Python
 
+### Architecture
+<p align="center">
+<img src="https://github.com/RazvanT09/pythonProjectwebdeveloper/blob/b9b46fb9b0c40a57371a83fed96d304a7307f609/screenshots/Arch%20diagram.png" width="100%">
+  
+### Process Flow
+<p align="center">
+<img src="" width="80%">
+
 ## 🚀 Getting started
 
  Create an in OpenWeather
