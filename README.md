@@ -19,7 +19,7 @@
   
 ### Process Flow
 <p align="center">
-<img src=" " width="80%">
+<img src="https://github.com/RazvanT09/pythonProjectwebdeveloper/blob/0fab47399887bddfbce8b74106e4049a2446f4e3/screenshots/Proces_Flow_Diagram.png" width="80%">
 
 ## 🚀 Getting started
 
