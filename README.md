@@ -19,7 +19,7 @@
   
 ### Process Flow
 <p align="center">
-<img src="" width="80%">
+<img src=" " width="80%">
 
 ## 🚀 Getting started
 
@@ -30,6 +30,7 @@
 Packages are required for the program to work:
 - requests
 - tkinter
+- poetry venv  
 - time
 
 Run the program. (*Tip: You can use an IDE such as [PyCharm](https://www.jetbrains.com/pycharm/)*)
